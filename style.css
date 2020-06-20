@@ -1,0 +1,21 @@
+.name{
+    color: red;
+    text-align: center;
+}
+img{display: block;}
+
+
+.ul {
+    display: block;
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.hh{background-color: blue;}
+  .aa{background-color: red;}
+  .gr{background-color: green;}
+
+  table{ border-color: olive;}
